@@ -2,4 +2,4 @@ clase 26/01/2023
 Huella digital y Git
 
 clase 28/01/2023
-Cambios en git y nueva rama
+Cambios en git y nueva rama y permisos
